@@ -1,0 +1,14 @@
+layout_spectrum: 0.5787513700779527
+typography_spectrum: 0.9928131906781346
+color:
+  brandStrength: 0.5795996603555977
+  lightness: 0.2780254939571023
+  saturation: 0.7723828728776425
+  rhythmicContrast: 0.8964902628213167
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: twisted faces
